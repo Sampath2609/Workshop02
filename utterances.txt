@@ -1,0 +1,7 @@
+CountryInfoIntent the capitol of {Country}
+CountryInfoIntent get the capitol of {Country}
+CountryInfoIntent country info for {Country}
+CountryInfoIntent what is the capitol of {Country}
+CountryInfoIntent about {Country}
+CountryInfoIntent {Country}
+CountryInfoIntent tell me the capitol of {Country}
