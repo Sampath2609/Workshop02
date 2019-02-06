@@ -1,0 +1,8 @@
+C:\Users\S533978\source\repos\LambdaAlexa\LambdaAlexa\bin\Debug\netcoreapp2.1\LambdaAlexa.deps.json
+C:\Users\S533978\source\repos\LambdaAlexa\LambdaAlexa\bin\Debug\netcoreapp2.1\LambdaAlexa.runtimeconfig.json
+C:\Users\S533978\source\repos\LambdaAlexa\LambdaAlexa\bin\Debug\netcoreapp2.1\LambdaAlexa.runtimeconfig.dev.json
+C:\Users\S533978\source\repos\LambdaAlexa\LambdaAlexa\bin\Debug\netcoreapp2.1\LambdaAlexa.dll
+C:\Users\S533978\source\repos\LambdaAlexa\LambdaAlexa\obj\Debug\netcoreapp2.1\LambdaAlexa.csprojAssemblyReference.cache
+C:\Users\S533978\source\repos\LambdaAlexa\LambdaAlexa\obj\Debug\netcoreapp2.1\LambdaAlexa.csproj.CoreCompileInputs.cache
+C:\Users\S533978\source\repos\LambdaAlexa\LambdaAlexa\obj\Debug\netcoreapp2.1\LambdaAlexa.AssemblyInfoInputs.cache
+C:\Users\S533978\source\repos\LambdaAlexa\LambdaAlexa\obj\Debug\netcoreapp2.1\LambdaAlexa.AssemblyInfo.cs
